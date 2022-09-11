@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\bin",
+    "\\Features",
+    "\\obj",
+    "\\PageObject",
+    "\\StepDefinition"
+  ],
+  "SelectedNode": "\\bin\\Debug\\netcoreapp3.1\\TestProject2.runtimeconfig.dev.json",
+  "PreviewInSolutionExplorer": false
+}
